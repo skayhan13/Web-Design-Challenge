@@ -12,34 +12,36 @@ h1, h2, h3{
 }
 
 h1{
-  font-size: 24px;
+  font-size: 30px;
   font-weight: bold;
   text-align:left;
 }
 
 h2{
-  font-size: 22px;
+  font-size: 26px;
   font-weight: bold;
   text-align:left;
 }
 
 h3{
-  font-size: 16px;
+  font-size: 20px;
   font-weight: bold;
   text-align: center;
 }
 
 p{
-  color: gray;
+  color: black;
   text-align:left;
 }
 
 .navbar{
+    color: black;
     position: absolute;
     right: 30px;
 }
 
 .navbar a{
+  color: black;
   background-color:white;
 }
 
@@ -51,9 +53,6 @@ body {
 
 .col {
   width: 100%;
-  /* border: black 1px solid; */
-  /* Font color */
-  /* color:blue;  */
 } 
 
 .homebtn{
@@ -65,7 +64,7 @@ body {
   width: 110px;
   background: lightseagreen;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   color: white;
   text-align: center;
@@ -96,7 +95,7 @@ body {
   bottom:0;
   background-color: gray;
   z-index:0;
-  font-size: 12px;
+  font-size: 14px;
   color: white;
   text-align: center;
   padding: 5px;
