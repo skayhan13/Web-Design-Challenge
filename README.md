@@ -1,8 +1,24 @@
 # Web-Design-Challenge
 
+## The live link to access the html website created is: https://skayhan13.github.io/Web-Design-Challenge/
+
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
+
+### Directory Structure
+
+* The "Assets" folder contains the "styles.css" file that defines formatting for the entire webpage.  CSS stands for cascading style sheet, which allows styles to carry over to with this one line of code: <link rel="stylesheet" href="Assets/styles.css"> If a css file did not exist, one would have manually set all styles (hard-code) in line, which is not preferred. 
+
+* The "Images" folder contains the .pngs for all the images seen on the webpage.
+
+* The _congig.yml was generated once I selected a theme for my github.io page.
+
+* *.html files contain html code for each page of the website.
+
+* csv_to_html.ipynb contains the code to convert a dataframe to html. This html dataframe can be viewed on the data.html page.
+
+* cities_data.csv is the data responsible for populating the dataframe in the Jupyter Notebook.
 
 ### Before You Begin
 
