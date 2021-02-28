@@ -74,7 +74,7 @@
         <br>
         <h1>Summary: Latitude vs. X</h1>
         <hr>
-        <img src="images/Fig1.png" alt="Latitude vs. Temperature" width="280" align="left">
+        <img src="Images/Fig1.png" alt="Latitude vs. Temperature" width="280" align="left">
         <p style="color:black; font-size:100%">The purpose of this project was to analyze how weather changes as you get closer to the equator. To accomplish this analysis, we first pulled data from the OpenWeatherMap API to assemble a dataset on over 500
           cities.</p>
         <p style="color:black;">After assembling the dataset, we used Matplotlib to plot various aspects of the weather vs. latitude. Factors we looked at included: temperature, cloudiness, wind speed, and humidity. This site provides the souce data and visualizations created as part of the analysis, as well as explanations and descriptions of any trends and correlations witnessed.</p>
@@ -88,16 +88,16 @@
         <hr>
         <div class='row'>
           <div class="col col-3 col-md-6">
-            <a href="Visualization 1.html"><img src="images/Fig1.png" alt="Latitude vs. Temperature"></a>
+            <a href="Visualization 1.html"><img src="Images/Fig1.png" alt="Latitude vs. Temperature"></a>
           </div>
           <div class="col col-3 col-md-6">
-            <a href="Visualization 2.html"><img src="images/Fig2.png" alt="Latitude vs. Humidity"></a>
+            <a href="Visualization 2.html"><img src="Images/Fig2.png" alt="Latitude vs. Humidity"></a>
           </div>
           <div class="col col-3 col-md-6">
-            <a href="Visualization 3.html"><img src="images/Fig3.png" alt="Latitude vs. Cloudiness"></a>
+            <a href="Visualization 3.html"><img src="Images/Fig3.png" alt="Latitude vs. Cloudiness"></a>
           </div>
           <div class="col col-3 col-md-6">
-            <a href="Visualization 4.html"><img src="images/Fig4.png" alt="Latitude vs. Wind Speed"></a>
+            <a href="Visualization 4.html"><img src="Images/Fig4.png" alt="Latitude vs. Wind Speed"></a>
           </div>
         </div>
       </div>
