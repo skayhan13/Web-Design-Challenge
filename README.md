@@ -20,6 +20,8 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 * cities_data.csv is the data responsible for populating the dataframe in the Jupyter Notebook.
 
+* index.md must be created for a github page to deploy.
+
 ### Before You Begin
 
 1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
