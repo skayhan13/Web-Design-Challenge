@@ -6,6 +6,8 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
+![Webpage](Images/Webpage.png)
+
 ### Directory Structure
 
 * The "Assets" folder contains the "styles.css" file that defines formatting for the entire webpage.  CSS stands for cascading style sheet, which allows styles to carry over to with this one line of code: <link rel="stylesheet" href="Assets/styles.css"> If a css file did not exist, one would have manually set all styles (hard-code) in line, which is not preferred. 
@@ -21,18 +23,6 @@ Data is more powerful when we share it with others! Let's take what we've learne
 * cities_data.csv is the data responsible for populating the dataframe in the Jupyter Notebook.
 
 * index.md must be created for a github page to deploy.
-
-### Before You Begin
-
-1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, add your **html** files, as well as your **assets**, **Resources** and **visualizations** folders. Your `index.html` should be the landing page that the user first sees.
-
-4. Push the above changes to GitHub or GitLab.
-
-5. Deploy to GitHub Pages. 
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
@@ -67,12 +57,6 @@ The website must, at the top of every page, have a navigation menu that:
 * Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 * Is responsive (using media queries). The nav must have similar behavior as the screenshots ["Navigation Menu" section](#navigation-menu) (notice the background color change).
 
-Finally, the website must be deployed to GitHub pages.
-
-When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
-
-Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
 ### Considerations
 
 * You may use the [weather data](Resources/cities.csv) or choose another dataset. Alternatively, you may use the included [cities dataset](Resources/cities.csv) and pull the images from the [assets folder](Resources/assets).
@@ -81,11 +65,3 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 * Be sure to use a CSS media query for the navigation menu.
 * Be sure your website works at all window widths/sizes.
 * Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
-
-### Bonuses
-
-* Use a different dataset! The requirements above still hold, but make it your own.
-* Use a Bootstrap theme to customize your website. You may use a tool like [Bootswatch](https://bootswatch.com/). Make it look snazzy, give it some attitude. If using this, be sure you also meet all of the requirements listed above.
-* Add extra visualizations! The more comparisons the better, right?
-* Use meaningful glyphicons next to links in the header.
-* Have visualization navigation on every visualizations page with an active state.
